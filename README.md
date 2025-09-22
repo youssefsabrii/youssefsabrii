@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
 
-<!--
-**youssefsabrii/youssefsabrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
-Here are some ideas to get you started:
+💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+## 🚀 About Me
+
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
+I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
+I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+
+
+
+
+<br clear="right"/>
+
+## 🔧 My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+ 
+## 🔗 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/youssef-sabry-abdelatty/))
+
+</div>
