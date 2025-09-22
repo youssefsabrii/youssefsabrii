@@ -1,8 +1,8 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm YOUSSEF SABRY 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**Front-end Web Developer ·**
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
